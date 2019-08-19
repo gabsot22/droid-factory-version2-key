@@ -1,6 +1,6 @@
 # Assignment 4 - Interfaces, Stacks, Queues, Generics, and Merge Sort. Project uses Assignment 3 solution.
 
-## Due
+## Due 03-16-2020
 
 ## Author
 
